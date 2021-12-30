@@ -9,8 +9,8 @@
 - Software design includes all activities that aid in the transformation from requirement specification to implementation. Major artifacts of the software design process include:
 
 - **Software requirements specification** 
-- ** High-level design** 
-- **Detailed design ** 
+- **High-level design** 
+- **Detailed design** 
 
 ## What is Security By Design?
 **Security by design** focuses on preventing a cybersecurity breach rather than repairing the issue and restoring systems after a company has been hit by a cybersecurity breach. 
