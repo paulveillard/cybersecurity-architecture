@@ -8,6 +8,8 @@
 ## What is Security By Design?
 **Security by design** focuses on preventing a cybersecurity breach rather than repairing the issue and restoring systems after a company has been hit by a cybersecurity breach. 
 
+![secure](https://github.com/paulveillard/cybersecurity-architecture/blob/main/img/security_by_design.png)
+
 Also known as *secure by design*, security by design means that companies think about cybersecurity at the beginning of a project. Secure by design means that **software engineers have designed the software to be secure from the outset so as to reduce the likelihood of flaws that might compromise a company’s information security.**
 
 
