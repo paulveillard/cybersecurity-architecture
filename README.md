@@ -20,7 +20,7 @@ Software design includes all activities that aid in the transformation from requ
 Also known as *secure by design*, security by design means that companies think about cybersecurity at the beginning of a project. Secure by design means that **software engineers have designed the software to be secure from the outset so as to reduce the likelihood of flaws that might compromise a company’s information security.**
 
 
-## Content
+## Table of Contents
 - [Principle](#principle)
 - [Scalability](#scalability)
 - [Availability](#availability)
