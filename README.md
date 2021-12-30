@@ -6,7 +6,7 @@
 ## What is Secure Software Architecture?
 - The software architecture of a system depicts the system’s organization or structure, and provides an explanation of how it behaves.
 
-- Software design includes all activities that aid in the transformation from requirement specification to implementation. Major artifacts of the software design process include:
+Software design includes all activities that aid in the transformation from requirement specification to implementation. Major artifacts of the software design process include:
 
 - **Software requirements specification** 
 - **High-level design** 
