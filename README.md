@@ -3,6 +3,12 @@
 > A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Security Software Architecture & design patterns
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+## What is Secure Software Architecture?
+
+## What is Security By Design?
+**Security by design** focuses on preventing a cybersecurity breach rather than repairing the issue and restoring systems after a company has been hit by a cybersecurity breach. 
+
+Also known as *secure by design*, security by design means that companies think about cybersecurity at the beginning of a project. Secure by design means that **software engineers have designed the software to be secure from the outset so as to reduce the likelihood of flaws that might compromise a company’s information security.**
 
 
 ## License
