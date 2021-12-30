@@ -8,9 +8,9 @@
 
 - Software design includes all activities that aid in the transformation from requirement specification to implementation. Major artifacts of the software design process include:
 
-* Software requirements specification - this document describes the expected behavior of the system in the form of functional and non-functional requirements. These requirements should be clear, actionable, measurable, and traceable to business requirements. Requirements should also define how the software should interact with humans, hardware, and other systems.
-* High-level design - The high-level design breaks the system’s architectural design into a less-abstracted view of sub-systems and modules and depicts their interaction with each other. This high-level design perspective focuses on how the system, along with all its components, implements in the form of modules. It recognizes the modular structure of each sub-system and their interaction among one another.
-* Detailed design - Detailed design involves the implementation of what is visible as a system and its sub-systems in a high-level design. This activity is more detailed towards modules and their implementations. It defines a logical structure of each module and their interfaces to communicate with other modules.
+- **Software requirements specification** 
+- ** High-level design** 
+- **Detailed design ** 
 
 ## What is Security By Design?
 **Security by design** focuses on preventing a cybersecurity breach rather than repairing the issue and restoring systems after a company has been hit by a cybersecurity breach. 
