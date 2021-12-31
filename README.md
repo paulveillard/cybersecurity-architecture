@@ -19,6 +19,8 @@ Software design includes all activities that aid in the transformation from requ
 
 Also known as *secure by design*, security by design means that companies think about cybersecurity at the beginning of a project. Secure by design means that **software engineers have designed the software to be secure from the outset so as to reduce the likelihood of flaws that might compromise a company’s information security.**
 
+**[`^        back to top        ^`](#)**
+
 
 ## Table of Contents
 - [Principle](#principle)
@@ -46,6 +48,10 @@ Also known as *secure by design*, security by design means that companies think 
   - [Front End Development](#front-end-development)
   - [Security](#security)
   - [Books](#books)
+
+
+**[`^        back to top        ^`](#)**
+
 
 ## Principle
 * [Lessons from Giant-Scale Services - Eric Brewer, UC Berkeley & Google](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf)
@@ -108,6 +114,8 @@ Also known as *secure by design*, security by design means that companies think 
 * [Design for Scaling Out](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/scale-out)	
 * [Design for Evolution](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/design-for-evolution)
 * [Learn from Mistakes](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
+
+**[`^        back to top        ^`](#)**
 
 ## Scalability
 * [Microservices and Orchestration](https://martinfowler.com/microservices/)
@@ -1068,6 +1076,7 @@ Also known as *secure by design*, security by design means that companies think 
 ## Big Data
 - [mapreduce-patterns](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns) - Map-reduce patterns.
 - [streaming-realtime-analytics](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics) - 13 Stream Processing Patterns for building Streaming and Realtime Applications.
+**[`^        back to top        ^`](#)**
 
 ## Databases and Storage
 - SQL
@@ -1090,6 +1099,8 @@ Also known as *secure by design*, security by design means that companies think 
 	- [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services
 	- [S3 Design Patterns](https://d1.awsstatic.com/whitepapers/AmazonS3BestPractices.pdf) - Best Practices Design Patterns: Optimizing Amazon S3 Performance
 
+**[`^        back to top        ^`](#)**
+
 ## DevOps & containers
 - [containerspatterns](https://l0rd.github.io/containerspatterns) - There are a Thousand Ways to Use Containers.
 - [kubernetes](https://github.com/gravitational/workshop/blob/master/k8sprod.md) - Kubernetes Production Patterns.
@@ -1099,7 +1110,7 @@ Also known as *secure by design*, security by design means that companies think 
 - [kubernetes patterns book](https://k8spatterns.io/)
 - [cdk patterns](https://cdkpatterns.com/) - cdk patterns.
 - [CDK Construct Catalog](https://awscdk.io/) - CDK construct catalog.
- 
+**[`^        back to top        ^`](#)** 
 
 ## Mobile
 - IOS
@@ -1107,7 +1118,8 @@ Also known as *secure by design*, security by design means that companies think 
 - Android
 	- [design-patterns-for-android](https://www.raywenderlich.com/109843/common-design-patterns-for-android) -  Common Design Patterns for Android. 
 	- [mvc-mvp-and-mvvm](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android) -  The MVC, MVP, and MVVM Smackdown. 
-	
+
+**[`^        back to top        ^`](#)**
 	
 ## Front-End Development
 - [user Interface](http://ui-patterns.com) - User Interface Design patterns.
@@ -1118,6 +1130,8 @@ Also known as *secure by design*, security by design means that companies think 
 	- [mv*](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC.
 	- [martinfowler](https://martinfowler.com/eaaDev/uiArchs.html) - GUI Architectures.
 
+**[`^        back to top        ^`](#)**
+
 ## Security
 - [opensecurityarchitecture](http://www.opensecurityarchitecture.org/cms/library/patternlandscape) - Security Architecture Patterns.
 - [martinfowler](https://www.martinfowler.com/articles/web-security-basics.html) - Web-security-basics.
@@ -1125,7 +1139,7 @@ Also known as *secure by design*, security by design means that companies think 
 - [owasp](https://www.owasp.org/index.php/Security_by_Design_Principles) - Security by Design Principles.
 - [azure-security](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) - Azure security best practices and patterns.
 
-
+**[`^        back to top        ^`](#)**
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
