@@ -27,15 +27,23 @@
  ### OWASP Application Security Verification Standard (ASVS): 
  A standard for performing application-level security verifications.[18]
  - OWASP XML Security Gateway (XSG) Evaluation Criteria Project.[19]
- - OWASP Top 10 Incident Response Guidance. 
+### OWASP Top 10 Incident Response Guidance. 
  This project provides a proactive approach to Incident Response planning. The intended audience of this document includes business owners to security engineers, developers, audit, program managers, law enforcement & legal council.[20]
- - OWASP ZAP Project: 
+ 
+ ### OWASP ZAP Project: 
  The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications. It is designed to be used by people with a wide range of security experience including developers and functional testers who are new to penetration testing.
- - Webgoat: 
+ 
+ 
+ ### Webgoat: 
  a deliberately insecure web application created by OWASP as a guide for secure programming practices.[1] Once downloaded, the application comes with a tutorial and a set of different lessons that instruct students how to exploit vulnerabilities with the intention of teaching them how to write code securely.
- - OWASP AppSec Pipeline: 
+ 
+ 
+ ### OWASP AppSec Pipeline: 
  The Application Security (AppSec) Rugged DevOps Pipeline Project is a place to find information needed to increase the speed and automation of an application security program. AppSec Pipelines take the principles of DevOps and Lean and applies that to an application security program.[21]
- - OWASP Automated Threats to Web Applications: Published July 2015[22] 
+ 
+ 
+ ### OWASP Automated Threats to Web Applications: Published July 2015[22] 
  the OWASP Automated Threats to Web Applications Project aims to provide definitive information and other resources for architects, developers, testers and others to help defend against automated threats such as credential stuffing. The project outlines the top 20 automated threats as defined by OWASP.[23]
- - OWASP API Security Project: 
+ 
+ ### OWASP API Security Project: 
  focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs). Includes the most recent list API Security Top 10 2019.[24]
