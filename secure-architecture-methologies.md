@@ -20,7 +20,7 @@
  The OWASP Testing Guide includes a "best practice" penetration testing framework that users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues. Version 4 was published in September 2014, with input from 60 individuals.[17]
  
  
- ### OWASP Code Review Guide: 
+ ### [OWASP Code Review Guide:](https://github.com/paulveillard/cybersecurity-architecture/blob/main/src/OWASP_Code_Review_Guide_v2.pdf)
  The code review guide is currently at release version 2.0, released in July 2017.
  
  
