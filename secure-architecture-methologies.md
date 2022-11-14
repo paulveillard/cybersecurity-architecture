@@ -4,8 +4,12 @@
 - OWASP
  -  OWASP Top Ten: 
  The "Top Ten", first published in 2003, is regularly updated.[10] It aims to raise awareness about application security by identifying some of the most critical risks facing organizations.[11][12][13] Many standards, books, tools, and many organizations reference the Top 10 project, including MITRE, PCI DSS,[14] the Defense Information Systems Agency (DISA-STIG), and the United States Federal Trade Commission (FTC),[15]
+ 
+ 
  -  OWASP Software Assurance Maturity Model: 
  The Software Assurance Maturity Model (SAMM) project's mission is to provide an effective and measurable way for all types of organizations to analyze and improve their software security posture. A core objective is to raise awareness and educate organizations on how to design, develop, and deploy secure software through a flexible self-assessment model. SAMM supports the complete software lifecycle and is technology and process agnostic. The SAMM model is designed to be evolutive and risk-driven in nature, acknowledging there is no single recipe that works for all organizations.[16]
+ 
+ 
  - OWASP Development Guide: 
  The Development Guide provides practical guidance and includes J2EE, ASP.NET, and PHP code samples. The Development Guide covers an extensive array of application-level security issues, from SQL injection through modern concerns such as phishing, credit card handling, session fixation, cross-site request forgeries, compliance, and privacy issues.
  - OWASP Testing Guide: 
