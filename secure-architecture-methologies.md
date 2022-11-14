@@ -12,11 +12,15 @@
  The OWASP Testing Guide includes a "best practice" penetration testing framework that users can implement in their own organizations and a "low level" penetration testing guide that describes techniques for testing most common web application and web service security issues. Version 4 was published in September 2014, with input from 60 individuals.[17]
  - OWASP Code Review Guide: 
  The code review guide is currently at release version 2.0, released in July 2017.
- - OWASP Application Security Verification Standard (ASVS): A standard for performing application-level security verifications.[18]
+ - OWASP Application Security Verification Standard (ASVS): 
+ A standard for performing application-level security verifications.[18]
  - OWASP XML Security Gateway (XSG) Evaluation Criteria Project.[19]
- - OWASP Top 10 Incident Response Guidance. This project provides a proactive approach to Incident Response planning. The intended audience of this document includes business owners to security engineers, developers, audit, program managers, law enforcement & legal council.[20]
- - OWASP ZAP Project: The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications. It is designed to be used by people with a wide range of security experience including developers and functional testers who are new to penetration testing.
- - Webgoat: a deliberately insecure web application created by OWASP as a guide for secure programming practices.[1] Once downloaded, the application comes with a tutorial and a set of different lessons that instruct students how to exploit vulnerabilities with the intention of teaching them how to write code securely.
+ - OWASP Top 10 Incident Response Guidance. 
+ This project provides a proactive approach to Incident Response planning. The intended audience of this document includes business owners to security engineers, developers, audit, program managers, law enforcement & legal council.[20]
+ - OWASP ZAP Project: 
+ The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications. It is designed to be used by people with a wide range of security experience including developers and functional testers who are new to penetration testing.
+ - Webgoat: 
+ a deliberately insecure web application created by OWASP as a guide for secure programming practices.[1] Once downloaded, the application comes with a tutorial and a set of different lessons that instruct students how to exploit vulnerabilities with the intention of teaching them how to write code securely.
  - OWASP AppSec Pipeline: 
  The Application Security (AppSec) Rugged DevOps Pipeline Project is a place to find information needed to increase the speed and automation of an application security program. AppSec Pipelines take the principles of DevOps and Lean and applies that to an application security program.[21]
  - OWASP Automated Threats to Web Applications: Published July 2015[22] 
