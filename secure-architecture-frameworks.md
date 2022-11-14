@@ -27,7 +27,7 @@ www.gov.uk/guidance/mod-architecture-framework
 - NIST SP 500-292: NIST Cloud Computing Reference Architecture
 
 
-- The Open Group Architecture Framework (TOGAF)
+- [The Open Group Architecture Framework (TOGAF)](https://github.com/paulveillard/cybersecurity-TOGAF)
 
 
 - Purdue Enterprise Reference Architecture (PERA)
