@@ -1,7 +1,14 @@
 # Security By Design, Scalability, Architectural Patterns
 ######  Welcome To The World of Architecture in Cybersecurity:
-> A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Security Software Architecture & design patterns.
+A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Security Software Architecture & design patterns.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
+
+## What is Cybersecurity Architecture?
+"Cybersecurity architecture is a fusion of architecture and cybersecurity. "Cybersecurity" is a combination of "cyber" (from the Greek word
+κυβερνήτης meaning "helmsman") and security ("the freedom from risk
+or danger"). Putting these all together, it's a model to produce an intended outcome related to freedom from technology-related danger."
+
+
 
 ## What is Secure Software Architecture?
 - The software architecture of a system depicts the system’s organization or structure, and provides an explanation of how it behaves.
@@ -23,6 +30,8 @@ Also known as *secure by design*, security by design means that companies think 
 
 
 ## Table of Contents
+- [Introduction](#)
+  - [What is Cybersecurity Architecture?](#)
 - [Principle](#principle)
 - [Scalability](#scalability)
 - [Availability](#availability)
