@@ -1,7 +1,5 @@
 ## Secure Architecture Methologies
-## Secure Architecture Methods
-## Secure Architecture Procedures
-## Secure Architecture Techniques
+
 
 ## Table of Contents
 - [OWASP](#owasp)
@@ -50,3 +48,8 @@
  
  ### OWASP API Security Project: 
  focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs). Includes the most recent list API Security Top 10 2019.[24]
+
+
+## Secure Architecture Methods
+## Secure Architecture Procedures
+## Secure Architecture Techniques
