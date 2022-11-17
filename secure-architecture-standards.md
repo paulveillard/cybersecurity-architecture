@@ -20,7 +20,7 @@ Documents that, while not official standards, nevertheless provide guidance abou
 Examples include: 
 - [NIST Cybersecurity Framework(CSF)]()
 - [HITRUST,]() 
-- [COBIT,]()
+- [COBIT,](https://www.isaca.org/resources/cobit)
 - and the [CIS Controls]()
 
 
