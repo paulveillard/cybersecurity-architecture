@@ -1,4 +1,7 @@
 ## Secure Architecture Methologies
+## Secure Architecture Methods
+## Secure Architecture Procedures
+## Secure Architecture Techniques
 
 ## Table of Contents
 - [OWASP](#owasp)
