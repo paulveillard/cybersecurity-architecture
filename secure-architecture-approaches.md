@@ -46,7 +46,7 @@
  ### OWASP Automated Threats to Web Applications: Published July 2015[22] 
  the OWASP Automated Threats to Web Applications Project aims to provide definitive information and other resources for architects, developers, testers and others to help defend against automated threats such as credential stuffing. The project outlines the top 20 automated threats as defined by OWASP.[23]
  
- ### OWASP API Security Project: 
+ ### [OWASP API Security Project:](https://owasp.org/www-project-api-security/)
  focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs). Includes the most recent list API Security Top 10 2019.[24]
 
 
