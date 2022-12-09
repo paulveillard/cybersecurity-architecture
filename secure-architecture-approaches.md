@@ -75,9 +75,9 @@ OWASP SAMM
 
 OWASP Security Knowledge Framework
 
-OWASP Security Shepherd
+### OWASP Security Shepherd
 
-OWASP Web Security Testing Guide
+### OWASP Web Security Testing Guide
 
 
 ## Secure Architecture Methods
