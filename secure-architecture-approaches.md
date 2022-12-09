@@ -48,6 +48,36 @@
  
  ### [OWASP API Security Project:](https://owasp.org/www-project-api-security/)
  focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs). Includes the most recent list API Security Top 10 2019.[24]
+ 
+OWASP Amass
+
+OWASP Cheat Sheet Series
+
+OWASP CSRFGuard
+
+OWASP CycloneDX
+
+OWASP Defectdojo
+
+OWASP Dependency-Check
+
+OWASP Dependency-Track
+
+OWASP Juice Shop
+
+OWASP Mobile Application Security
+
+OWASP ModSecurity Core Rule Set
+
+OWASP OWTF
+
+OWASP SAMM
+
+OWASP Security Knowledge Framework
+
+OWASP Security Shepherd
+
+OWASP Web Security Testing Guide
 
 
 ## Secure Architecture Methods
