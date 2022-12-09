@@ -65,7 +65,7 @@
 
 ### OWASP Juice Shop
 
-OWASP Mobile Application Security
+### OWASP Mobile Application Security
 
 OWASP ModSecurity Core Rule Set
 
