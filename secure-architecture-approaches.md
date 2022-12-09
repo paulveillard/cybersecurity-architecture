@@ -6,6 +6,8 @@
 
 
 ## OWASP
+
+
  ### [OWASP Top Ten:](https://owasp.org/www-project-top-ten/) 
  The "Top Ten", first published in 2003, is regularly updated.[10] It aims to raise awareness about application security by identifying some of the most critical risks facing organizations.[11][12][13] Many standards, books, tools, and many organizations reference the Top 10 project, including MITRE, PCI DSS,[14] the Defense Information Systems Agency (DISA-STIG), and the United States Federal Trade Commission (FTC),[15]
  
