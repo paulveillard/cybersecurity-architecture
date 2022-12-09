@@ -59,7 +59,7 @@
 
 ### OWASP Defectdojo
 
-OWASP Dependency-Check
+### OWASP Dependency-Check
 
 OWASP Dependency-Track
 
