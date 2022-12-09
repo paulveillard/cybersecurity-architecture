@@ -57,7 +57,7 @@
 
 ### OWASP CycloneDX
 
-OWASP Defectdojo
+### OWASP Defectdojo
 
 OWASP Dependency-Check
 
